@@ -1,0 +1,5 @@
+books/*
+.DS_STORE
+.python-version
+__pycache__
+.chainlit

@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "book-talk"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10.0"
+jupyter = "^1.0.0"
+llama-index = "^0.9.46"
+html2text = "^2020.1.16"
+beautifulsoup4 = "^4.12.3"
+lxml = "^5.1.0"
+transformers = "^4.37.2"
+torch = "^2.2.0"
+einops = "^0.7.0"
+accelerate = "^0.27.2"
+bitsandbytes = "^0.42.0"
+sentence-transformers = "^2.3.1"
+async-timeout = "^4.0.3"
+exceptiongroup = "^1.2.0"
+chainlit = "^1.0.301"
+langchain = "^0.1.9"
+ebooklib = "^0.18"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
