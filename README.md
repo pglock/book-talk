@@ -5,6 +5,7 @@ Chat with your books using local LLMs.
 ## Get Started
 
 - `poetry install`
+- setup ollama
 - `poetry shell`
 - add epub files to the `books` directory
 - `chainlit run src/app.py`
