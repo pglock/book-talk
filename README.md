@@ -7,7 +7,7 @@ Chat with your books using local LLMs.
 - `poetry install`
 - `poetry shell`
 - add epub files to the `books` directory
-- `chainlit run app.py`
+- `chainlit run src/app.py`
 
 ## Runs on
 
